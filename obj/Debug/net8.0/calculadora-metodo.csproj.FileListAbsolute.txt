@@ -1,0 +1,15 @@
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\bin\Debug\net8.0\calculadora-metodo.exe
+C:\Users\Alunos\Documents\bruna\calculadora-metodo\bin\Debug\net8.0\calculadora-metodo.deps.json
+C:\Users\Alunos\Documents\bruna\calculadora-metodo\bin\Debug\net8.0\calculadora-metodo.runtimeconfig.json
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\bin\Debug\net8.0\calculadora-metodo.dll
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\bin\Debug\net8.0\calculadora-metodo.pdb
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.AssemblyInfo.cs
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.sourcelink.json
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.dll
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\refint\calculadora-metodo.dll
+c:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.pdb
+C:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\calculadora-metodo.genruntimeconfig.cache
+C:\Users\Alunos\Documents\bruna\calculadora-metodo\obj\Debug\net8.0\ref\calculadora-metodo.dll
