@@ -9,7 +9,7 @@ namespace Calculadora
             decimal valor = decimal.Parse(Console.ReadLine());
             return  valor;
         }
-        public static void Adicao()
+        public static void RealizarAdicao()
         {
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
@@ -17,7 +17,7 @@ namespace Calculadora
             Console.WriteLine($"A soma dos valores {valor1} e {valor2} é {valor1 + valor2} ");
 
         }
-        public static void Subtracao()
+        public static void RealizarSubtracao()
         {
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
@@ -25,7 +25,7 @@ namespace Calculadora
             Console.WriteLine($"A subtração dos valores {valor1} e {valor2} é: {valor1 - valor2}");
         }
 
-        public static void Multiplicacao()
+        public static void RealizarMultiplicacao()
         {
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
@@ -33,12 +33,12 @@ namespace Calculadora
             Console.WriteLine($"A Multiplicação dos valores {valor1} e {valor2} é: {valor1 * valor2}");
         }
 
-        public static void divisao()
+        public static void Realizardivisao()
         {
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
 
-            Console.WriteLine($"A divisão dos valores {valor1} {valor2} é: {valor1 / valor2}");
+            Console.WriteLine($"A divisão dos valores {valor1} e {valor2} é: {valor1 / valor2}");
         }
 
         
