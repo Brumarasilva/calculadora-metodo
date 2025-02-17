@@ -1,4 +1,5 @@
 using System.Runtime.InteropServices;
+using Layout;
 
 namespace Calculadora
 {
@@ -7,7 +8,7 @@ namespace Calculadora
 
         public static decimal ObterValor()
         {
-            Console.WriteLine("Entre com o valor:");
+            Formatacao.Cor("Entre com o valor:", ConsoleColor.Yellow);
         repetir:
             if (!decimal.TryParse(Console.ReadLine(), out decimal valor))
             {
@@ -21,7 +22,7 @@ namespace Calculadora
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
 
-            Console.WriteLine($"A soma dos valores {valor1} e {valor2} é {valor1 + valor2} ");
+           Formatacao.Cor($"{valor1} + {valor2} = {valor1 + valor2} ", ConsoleColor.Green);
 
         }
         public static void RealizarSubtracao()
@@ -29,7 +30,7 @@ namespace Calculadora
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
 
-            Console.WriteLine($"A subtração dos valores {valor1} e {valor2} é: {valor1 - valor2}");
+           Formatacao.Cor($"{valor1} - {valor2} = {valor1 - valor2}", ConsoleColor.Green);
         }
 
         public static void RealizarMultiplicacao()
@@ -37,7 +38,7 @@ namespace Calculadora
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
 
-            Console.WriteLine($"A Multiplicação dos valores {valor1} e {valor2} é: {valor1 * valor2}");
+            Formatacao.Cor($"{valor1} * {valor2} = {valor1 * valor2}", ConsoleColor.Green);
         }
 
         public static void Realizardivisao()
@@ -45,11 +46,11 @@ namespace Calculadora
             decimal valor1 = Operacoes.ObterValor();
             decimal valor2 = Operacoes.ObterValor();
 
-            Console.WriteLine($"A divisão dos valores {valor1} e {valor2} é: {valor1 / valor2}");
+            Formatacao.Cor($"{valor1} / {valor2} = {valor1 / valor2}", ConsoleColor.Green);
         }
         public static void sair()
         {
-            Console.WriteLine("você saiu");
+           Formatacao.Cor("Você saiu!....", ConsoleColor.Red);
         }
     }
 }
