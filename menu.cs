@@ -2,7 +2,7 @@ namespace Menu
 {
     class Escolha
     {
-        public static void ExibirMenu()
+        public static void ExibirMenu()//Quando o programa estiver ativo esse menu vai ser impresso na tela.
 
         {
             Console.WriteLine("Escolha uma operação: ");

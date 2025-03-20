@@ -3,7 +3,7 @@ using Menu;
 using Layout;
 bool opcaoValida = false;
 Console.Clear();
-while (true)
+while (true)//O while(true) vai guardar tudo escrito abaixo dentro dele e quando o usuário digitar um numero inválido o programa vai inválidar(o sistema não vai reconhecer: opçãoValida == false;). Caso sejá validado o programa vai continuar rodando.
 {
     Escolha.ExibirMenu();
 
