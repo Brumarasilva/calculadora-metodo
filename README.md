@@ -16,9 +16,9 @@
 
 ## ${\color{#ffc1d5}{Backlog:}}$
 
-* Adicionar outras funcionalidades de cálculo mais avançadas. (exemplos.:Bhaskara, fração e etc...)
+* Adicionar outras funcionalidades de cálculo mais avançadas. (exemplos.:Bhaskara, fração, porcentagem etc...)
 
-## ## ${\color{#ffc1d5}{Conclusão:}}$
+## ${\color{#ffc1d5}{Conclusão:}}$
 
 * É uma calculadora que permite ao usuário escolher se ele quer somar, subtrair, dividir ou multiplicar.
 * Quando o usuário escolher sair do programa ele so vai precisar selecionar a opção de sair.
