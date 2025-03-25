@@ -16,7 +16,7 @@
 
 ## ${\color{#ffc1d5}{Backlog:}}$
 
-* Adicionar outras funcionalidades de cálculo mais avançadas. (exemplos.:Bhaskara, fração, porcentagem etc...)
+* Adicionar outras funcionalidades de cálculo mais avançadas. (exemplos.:Bhaskara, fração, porcentagem, etc...)
 
 ## ${\color{#ffc1d5}{Conclusão:}}$
 
